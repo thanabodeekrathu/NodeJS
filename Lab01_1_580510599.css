@@ -1,0 +1,88 @@
+.header {
+    color: #ffffff;
+    padding: 20px;
+    background-color: #ABD32F;
+    width: 80%;
+    font-size: 45px;
+    margin: auto;
+    text-align: left;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.birthday {
+    position: absolute;
+    color: green;
+    text-align: center;
+    top: 49%;
+    left: 71%;
+    background-color: #A1B8CF;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.rowday {
+    position: absolute;
+    top: 30%;
+}
+
+.row1 {
+    position: absolute;
+    top: 40%;
+}
+
+.row2 {
+    position: absolute;
+    top: 50%;
+}
+
+.row3 {
+    position: absolute;
+    top: 60%;
+}
+
+.row4 {
+    position: absolute;
+    top: 70%;
+}
+
+.row5 {
+    position: absolute;
+    top: 80%;
+}
+
+.col1 {
+    position: absolute;
+    left: 12%;
+}
+
+.col2 {
+    position: absolute;
+    left: 24%;
+}
+
+.col3 {
+    position: absolute;
+    left: 36%;
+}
+
+.col4 {
+    position: absolute;
+    left: 48%;
+}
+
+.col5 {
+    position: absolute;
+    left: 60%;
+}
+
+.col6 {
+    position: absolute;
+    left: 72%;
+}
+
+.col7 {
+    position: absolute;
+    left: 84%;
+}
